@@ -16,7 +16,7 @@
 #Cookbooks
 - Thug Kitchen (2014): http://www.thugkitchen.com/tk1
 - The Oh She Glows Cookbook (2014), by Angela Liddon: http://ohsheglows.com/the-book
-- The Plantpower  (2015), by Julie Piatt & Rich Roll: https://www.richroll.com/the-plantpower-way
+- The Plantpower Way (2015), by Julie Piatt & Rich Roll: https://www.richroll.com/the-plantpower-way
 - Crazy Sexy Kitchen (2012), by Kris Carr: http://kriscarr.com/products/crazy-sexy-kitchen
 - My New Roots (2015), by Sarah Britton: https://www.mynewroots.org
 - At Home in the Whole Food Kitchen (2014), by Amy Chaplin: http://amychaplin.com/book
