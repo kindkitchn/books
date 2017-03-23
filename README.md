@@ -1,4 +1,4 @@
-#Books
+# Books
 - How Not to Die (2015), by Michael Greger, MD & Gene Stone: http://nutritionfacts.org/book
 - The Farm Sanctuary Life (2015), by Gene Baur & Gene Stone: http://www.farmsanctuary.org/living
 - Happy Vegan (2015), by Russell Simmons & Chris Morrow: https://www.amazon.com/Happy-Vegan-Living-Healthy-Successful/dp/1592409326
@@ -13,7 +13,7 @@
 - The World Peace Diet (2004), by Will Tuttle, PhD: http://www.worldpeacediet.com
 - Eat to Live (2003), by Joel Fuhrman, MD: https://www.amazon.com/Eat-Live-Amazing-Nutrient-Rich-Sustained/dp/031612091X
 
-#Cookbooks
+# Cookbooks
 - The Plantpower Way (2015), by Julie Piatt & Rich Roll: https://www.richroll.com/the-plantpower-way
 - Street Vegan (2015), by Adam Sobel: https://www.amazon.com/Street-Vegan-Recipes-Dispatches-Cinnamon/dp/0385346190
 - Thug Kitchen (2014): http://www.thugkitchen.com/tk1
